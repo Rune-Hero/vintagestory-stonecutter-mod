@@ -1,0 +1,36 @@
+{
+  "item-sawblade-iron": "Залізне пильне полотно",
+  "item-sawblade-steel": "Сталеве пильне полотно",
+
+  "block-temporalmotor": "Мотор каменеріза",
+  "blockdesc-temporalmotor": "Серце портативного каменеріза. Працює на енергії часопросторової шестерні, забезпечуючи колосальні оберти для стабільного обертання пильного полотна.",
+  
+  "item-sawguard-tinbronze" : "Олов'яно-бронзовий захисний кожух",
+  "item-sawguard-bismuthbronze" : "Вісмутово-бронзовий захисний кожух",
+  "item-sawguard-blackbronze" : "Чорно-бронзовий захисний кожух",
+  "itemdesc-sawguard-*" : "Захисний елемент корпусу, призначений для безпечної роботи з високошвидкісними дисками каменеріза.",
+  
+  "item-sawhandle-tinbronze": "Олов'яно-бронзова рукоятка",
+  "item-sawhandle-bismuthbronze": "Вісмутово-бронзова рукоятка",
+  "item-sawhandle-blackbronze": "Чорно-бронзова рукоятка",
+  "itemdesc-sawhandle-*": "Міцна ергономічна рукоятка, що дозволяє надійно утримувати каменеріз двома руками під час пиляння.",
+  
+  "item-sawrotor": "Ротор пили",
+  "itemdesc-sawrotor": "Внутрішній механічний вузол мотора, що передає обертальний момент на вал пильного полотна.",
+  
+  "item-stonecutter_empty-tinbronze" : "Порожній каменеріз (Олов'яна бронза)",
+  "item-stonecutter_empty-bismuthbronze" : "Порожній каменеріз (Вісмутова бронза)",
+  "item-stonecutter_empty-blackbronze" : "Порожній каменеріз (Чорна бронза)",
+  "itemdesc-stonecutter_empty-*": "Повністю зібраний корпус інструмента з двигуном та рукояткою. <font color=\"#e5a65d\">Для роботи необхідно встановити пильне полотно у вікні майстрування!</font>",
+
+  "item-stonecutter-tinbronze-iron": "Каменеріз (Залізна пила)",
+  "item-stonecutter-bismuthbronze-iron": "Каменеріз (Залізна пила)",
+  "item-stonecutter-blackbronze-iron": "Каменеріз (Залізна пила)",
+ 
+  "item-stonecutter-tinbronze-steel": "Каменеріз (Сталева пила)",
+  "item-stonecutter-bismuthbronze-steel": "Каменеріз (Сталева пила)",
+  "item-stonecutter-blackbronze-steel": "Каменеріз (Сталева пила)",
+  
+  "itemdesc-stonecutter-*": "Портативний інструмент для швидкого розпилювання кам'яних блоків прямо на місці. <br><font color=\"#6bb2fc\">Інструкція:</font> Візьміть інструмент у руки, підійдіть до будь-якої гірської породи (каменю) та утримуйте <strong>ЛКМ</strong> для запуску диска."
+ 
+}

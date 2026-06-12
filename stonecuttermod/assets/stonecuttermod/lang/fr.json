@@ -1,0 +1,35 @@
+{
+  "item-sawblade-iron": "Lame de scie en fer",
+  "item-sawblade-steel": "Lame de scie en acier",
+
+  "block-temporalmotor": "Moteur de la découpeuse",
+  "blockdesc-temporalmotor": "Le cœur d'une découpeuse à pierre portable. Alimenté par l'énergie d'un engrenage temporel, assurant un régime élevé pour une rotation stable de la lame de scie.",
+  
+  "item-sawguard-tinbronze" : "Carter de protection en bronze à l'étain",
+  "item-sawguard-bismuthbronze" : "Carter de protection en bronze au bismuth",
+  "item-sawguard-blackbronze" : "Carter de protection en bronze noir",
+  "itemdesc-sawguard-*" : "Un élément de protection du boîtier, conçu pour une utilisation sécurisée avec les lames à grande vitesse de la découpeuse à pierre.",
+  
+  "item-sawhandle-tinbronze": "Poignée en bronze à l'étain",
+  "item-sawhandle-bismuthbronze": "Poignée en bronze au bismuth",
+  "item-sawhandle-blackbronze": "Poignée en bronze noir",
+  "itemdesc-sawhandle-*": "Une poignée robuste permettant de maintenir la découpeuse fermement à deux mains pendant le sciage.",
+  
+  "item-sawrotor": "Rotor de la scie",
+  "itemdesc-sawrotor": "Un composant mécanique interne du moteur qui transmet le couple à l'axe de la lame de scie.",
+  
+  "item-stonecutter_empty-tinbronze" : "Découpeuse vide (Bronze à l'étain)",
+  "item-stonecutter_empty-bismuthbronze" : "Découpeuse vide (Bronze au bismuth)",
+  "item-stonecutter_empty-blackbronze" : "Découpeuse vide (Bronze noir)",
+  "itemdesc-stonecutter_empty-*": "Un corps d'outil entièrement assemblé avec son moteur et sa poignée. <font color=\"#e5a65d\">Nécessite l'installation d'une lame de scie dans la grille de fabrication pour fonctionner !</font>",
+
+  "item-stonecutter-tinbronze-iron": "Découpeuse à pierre (Lame en fer)",
+  "item-stonecutter-bismuthbronze-iron": "Découpeuse à pierre (Lame en fer)",
+  "item-stonecutter-blackbronze-iron": "Découpeuse à pierre (Lame en fer)",
+ 
+  "item-stonecutter-tinbronze-steel": "Découpeuse à pierre (Lame en acier)",
+  "item-stonecutter-bismuthbronze-steel": "Découpeuse à pierre (Lame en acier)",
+  "item-stonecutter-blackbronze-steel": "Découpeuse à pierre (Lame en acier)",
+  
+  "itemdesc-stonecutter-*": "Un outil portable pour le sciage rapide des blocs de roche sur place. <br><font color=\"#6bb2fc\">Instructions :</font> Prenez l'outil en main, approchez-vous de n'importe quel bloc de roche et maintenez le <strong>clic gauche</strong> enfoncé pour lancer la lame."
+}

@@ -1,0 +1,18 @@
+{
+  "ingredient": { "type": "item", "code": "game:ingot-*", "name": "metal", "allowedVariants": ["iron", "steel"] },
+  "name": "sawblade",
+  "pattern": [
+    [
+      "____####____",
+      "___######___",
+      "__########__",
+      "__###__###__",
+      "__###__###__",
+      "__########__",
+      "___######___",
+      "____####____"
+    ]
+  ],
+  "code": "sawblade-{metal}",
+  "output": { "type": "item", "code": "stonecuttermod:sawblade-{metal}" }
+}

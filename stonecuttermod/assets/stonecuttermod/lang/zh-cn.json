@@ -1,0 +1,35 @@
+{
+  "item-sawblade-iron": "铁锯片",
+  "item-sawblade-steel": "钢锯片",
+
+  "block-temporalmotor": "切石机马达",
+  "blockdesc-temporalmotor": "便携式切石机的核心。由时间齿轮提供动力，提供高转速以确保锯片稳定旋转。",
+  
+  "item-sawguard-tinbronze" : "锡青铜锯片保护罩",
+  "item-sawguard-bismuthbronze" : "鉍青铜锯片保护罩",
+  "item-sawguard-blackbronze" : "黑青铜锯片保护罩",
+  "itemdesc-sawguard-*" : "机壳保护元件，用于确保切石机高速锯片的安全操作。",
+  
+  "item-sawhandle-tinbronze": "锡青铜手柄",
+  "item-sawhandle-bismuthbronze": "鉍青铜手柄",
+  "item-sawhandle-blackbronze": "黑青铜手柄",
+  "itemdesc-sawhandle-*": "坚固的手柄，可在锯切过程中用双手牢牢握持切石机。",
+  
+  "item-sawrotor": "锯片转子",
+  "itemdesc-sawrotor": "马达内部的机械部件，用于将扭矩传递到锯片轴上。",
+  
+  "item-stonecutter_empty-tinbronze" : "空切石机（锡青铜）",
+  "item-stonecutter_empty-bismuthbronze" : "空切石机（鉍青铜）",
+  "item-stonecutter_empty-blackbronze" : "空切石机（黑青铜）",
+  "itemdesc-stonecutter_empty-*": "已完全组装的工具主体，包含马达和手柄。<font color=\"#e5a65d\">需要先在制作栏中安装锯片才能使用！</font>",
+
+  "item-stonecutter-tinbronze-iron": "切石机（铁锯片）",
+  "item-stonecutter-bismuthbronze-iron": "切石机（铁锯片）",
+  "item-stonecutter-blackbronze-iron": "切石机（铁锯片）",
+ 
+  "item-stonecutter-tinbronze-steel": "切石机（钢锯片）",
+  "item-stonecutter-bismuthbronze-steel": "切石机（钢锯片）",
+  "item-stonecutter-blackbronze-steel": "切石机（钢锯片）",
+  
+  "itemdesc-stonecutter-*": "用于在现场快速锯切石材方块的便携式工具。<br><font color=\"#6bb2fc\">使用说明：</font> 手持工具，靠近任何岩石方块，按住 <strong>鼠标左键</strong> 即可启动锯片。"
+}

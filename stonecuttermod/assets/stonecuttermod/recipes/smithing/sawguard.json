@@ -1,0 +1,28 @@
+{
+  "ingredient": { "type": "item", "code": "game:ingot-*", "name": "metal", "allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze"] },
+  "name": "sawguard",
+  "pattern": [
+    [
+      "#####____",
+      "#######__",
+      "_____###_",
+      "______###",
+      "_______##",
+      "_______##",
+      "_______##",
+      "_______##"
+    ],
+    [
+      "#####____",
+      "_____##__",
+      "______##_",
+      "_______##",
+      "________#",
+      "________#",
+      "________#",
+      "________#"
+    ]
+  ],
+  "code": "sawguard-{metal}",
+  "output": { "type": "item", "code": "stonecuttermod:sawguard-{metal}" }
+}

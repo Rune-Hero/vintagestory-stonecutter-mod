@@ -1,0 +1,35 @@
+{
+  "item-sawblade-iron": "Hoja de sierra de hierro",
+  "item-sawblade-steel": "Hoja de sierra de acero",
+
+  "block-temporalmotor": "Motor de la cortadora",
+  "blockdesc-temporalmotor": "El corazón de una cortadora de piedra portátil. Funciona con la energía de un engranaje temporal, lo que proporciona altas revoluciones para una rotación estable de la hoja de sierra.",
+  
+  "item-sawguard-tinbronze" : "Protector de hoja de bronce de estaño",
+  "item-sawguard-bismuthbronze" : "Protector de hoja de bronce de bismuto",
+  "item-sawguard-blackbronze" : "Protector de hoja de bronce negro",
+  "itemdesc-sawguard-*" : "Un elemento de protección de la carcasa, diseñado para una operación segura con las hojas de alta velocidad de la cortadora de piedra.",
+  
+  "item-sawhandle-tinbronze": "Empuñadura de bronce de estaño",
+  "item-sawhandle-bismuthbronze": "Empuñadura de bronce de bismuto",
+  "item-sawhandle-blackbronze": "Empuñadura de bronce negro",
+  "itemdesc-sawhandle-*": "Una empuñadura robusta que permite sostener la cortadora de forma segura con ambas manos durante el aserrado.",
+  
+  "item-sawrotor": "Rotor de la sierra",
+  "itemdesc-sawrotor": "Un componente mecánico interno del motor que transmite el par de torsión al eje de la hoja de sierra.",
+  
+  "item-stonecutter_empty-tinbronze" : "Cortadora vacía (Bronce de estaño)",
+  "item-stonecutter_empty-bismuthbronze" : "Cortadora vacía (Bronce de bismuto)",
+  "item-stonecutter_empty-blackbronze" : "Cortadora vacía (Bronce negro)",
+  "itemdesc-stonecutter_empty-*": "Una estructura de herramienta completamente ensamblada con motor y empuñadura. <font color=\"#e5a65d\">¡Requiere instalar una hoja de sierra en la rejilla de fabricación para funcionar!</font>",
+
+  "item-stonecutter-tinbronze-iron": "Cortadora de piedra (Hoja de hierro)",
+  "item-stonecutter-bismuthbronze-iron": "Cortadora de piedra (Hoja de hierro)",
+  "item-stonecutter-blackbronze-iron": "Cortadora de piedra (Hoja de hierro)",
+ 
+  "item-stonecutter-tinbronze-steel": "Cortadora de piedra (Hoja de acero)",
+  "item-stonecutter-bismuthbronze-steel": "Cortadora de piedra (Hoja de acero)",
+  "item-stonecutter-blackbronze-steel": "Cortadora de piedra (Hoja de acero)",
+  
+  "itemdesc-stonecutter-*": "Una herramienta portátil para el aserrado rápido de bloques de piedra en el lugar. <br><font color=\"#6bb2fc\">Instrucciones:</font> Sostenga la herramienta en sus manos, acérquese a cualquier bloque de roca y mantenga presionado el <strong>clic izquierdo</strong> para encender la hoja."
+}

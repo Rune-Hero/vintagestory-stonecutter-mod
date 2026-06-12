@@ -1,0 +1,24 @@
+[
+  {
+    "file": "game:entities/humanoid/player",
+    "op": "add",
+    "path": "/client/animations/-",
+    "value": {
+      "code": "stonecutter:miningheavy",
+      "animation": "holdbothhandslarge",
+      "blendMode": "Add",
+      "elementWeight": {
+        "UpperArmR": 1000,
+        "LowerArmR": 1000,
+        "UpperArmL": 1000,
+        "LowerArmL": 1000
+      },
+      "elementBlendMode": {
+        "UpperArmR": "AddAverage",
+        "LowerArmR": "AddAverage",
+        "UpperArmL": "AddAverage",
+        "LowerArmL": "AddAverage"
+      }
+    }
+  }
+]

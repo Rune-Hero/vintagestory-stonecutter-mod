@@ -1,0 +1,44 @@
+{
+	"code": "stonecutter_empty",
+	"class": "Item",
+	"enabled": true,
+
+	"variantgroups": [
+		{ "code": "metal", "states": ["tinbronze", "bismuthbronze", "blackbronze"] }
+	],
+
+	"shape": { "base": "stonecuttermod:item/stonecutter_empty" },
+
+	"textures": {
+		"metal": { "base": "game:block/metal/ingot/{metal}" }
+	},
+
+	"creativeinventory": {
+		"general": ["*"],
+		"stonecuttermod": ["*"]
+	},
+
+	"maxstacksize": 1,
+	
+	"heldTpIdleAnimation": "holdbothhandslarge",
+
+	"guiTransform": {
+		"translation": { "x": 0, "y": 0, "z": 0 },
+		"rotation": { "x": -20, "y": -123, "z": -180 },
+		"origin": { "x": 0.8, "y": 0.3, "z": 0.68 },
+		"scale": 2
+	},
+
+	"groundTransform": {
+		"translation": { "x": 0, "y": -0.14, "z": 0 },
+		"rotation": { "x": 0, "y": 1, "z": 0 },
+		"origin": { "x": 0.5, "y": 0, "z": 0.5 },
+		"scale": 3.6
+	},
+
+	"tpHandTransform": {
+		"translation": { "x": -0.66, "y": -0.8, "z": -0.25 },
+		"rotation": { "x": 90, "y": 0, "z": -70 },
+		"scale": 0.95
+	}
+}

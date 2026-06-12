@@ -1,0 +1,10 @@
+{
+  "type": "code",
+  "modid": "stonecuttermod",
+  "name": "Temporal Stonecutter",
+  "description": "Adds a portable, engine-powered stonecutter to instantly saw through solid rock blocks.",
+  "authors": [
+    "PaleKnight"
+  ],
+  "version": "1.0.0"
+}

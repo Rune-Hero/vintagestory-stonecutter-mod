@@ -1,0 +1,35 @@
+{
+	"code": "sawrotor",
+	"class": "Item",
+	"enabled": true,
+	"shape": { "base": "stonecuttermod:item/sawrotor" },
+	"creativeinventory": {
+		"general": ["*"],
+		"stonecuttermod": ["*"]
+	},
+	"maxstacksize": 8,
+	"guiTransform": {
+		"translation": { "x": 0, "y": 0, "z": 0 },
+		"rotation": { "x": -35, "y": -45, "z": 30 },
+		"origin": { "x": 0.5, "y": 0.5, "z": 0.5 },
+		"scale": 1.5
+	},
+	"fpHandTransform": {
+		"translation": { "x": 0, "y": -0.2, "z": 0 },
+		"rotation": { "x": 15, "y": -45, "z": 0 },
+		"origin": { "x": 0.5, "y": 0.5, "z": 0.5 },
+		"scale": 0.5
+	},
+	"groundTransform": {
+		"translation": { "x": 0, "y": 0.05, "z": 0 },
+		"rotation": { "x": 90, "y": 0, "z": 0 },
+		"origin": { "x": 0.5, "y": 0.5, "z": 0.5 },
+		"scale": 1.75
+	},
+	"tpHandTransform": {
+		"translation": { "x": -1.1, "y": -0.9, "z": -1 },
+		"rotation": { "x": 180, "y": 0, "z": 0 },
+		"origin": { "x": 0.5, "y": 0.5, "z": 0.5 },
+		"scale": 0.5
+	}
+}

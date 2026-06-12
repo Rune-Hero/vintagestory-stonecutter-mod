@@ -1,0 +1,35 @@
+{
+  "item-sawblade-iron": "鉄製の鋸刃",
+  "item-sawblade-steel": "鋼鉄製の鋸刃",
+
+  "block-temporalmotor": "石切機のモーター",
+  "blockdesc-temporalmotor": "携帯用石切機の心臓部。時間歯車のエネルギーで駆動し、鋸刃を安定して回転させるための高回転を提供します。",
+  
+  "item-sawguard-tinbronze" : "錫青銅製の鋸刃ガード",
+  "item-sawguard-bismuthbronze" : "ビスマス青銅製の鋸刃ガード",
+  "item-sawguard-blackbronze" : "黒青銅製の鋸刃ガード",
+  "itemdesc-sawguard-*" : "石切機の高速刃を安全に操作するための保護カバーパーツ。",
+  
+  "item-sawhandle-tinbronze": "錫青銅製のハンドル",
+  "item-sawhandle-bismuthbronze": "ビスマス青銅製のハンドル",
+  "item-sawhandle-blackbronze": "黒青銅製のハンドル",
+  "itemdesc-sawhandle-*": "鋸引きの際に石切機を両手でしっかりと保持するための頑丈なハンドル。",
+  
+  "item-sawrotor": "鋸のローター",
+  "itemdesc-sawrotor": "トルクを鋸刃のシャフトに伝達するモーター内部の機械部品。",
+  
+  "item-stonecutter_empty-tinbronze" : "空の石切機（錫青銅）",
+  "item-stonecutter_empty-bismuthbronze" : "空の石切機（ビスマス青銅）",
+  "item-stonecutter_empty-blackbronze" : "空の石切機（黒青銅）",
+  "itemdesc-stonecutter_empty-*": "モーターとハンドルが完全に組み立てられた工具本体。<font color=\"#e5a65d\">機能させるには、製造グリッドで鋸刃を取り付ける必要があります！</font>",
+
+  "item-stonecutter-tinbronze-iron": "石切機（鉄製刃）",
+  "item-stonecutter-bismuthbronze-iron": "石切機（鉄製刃）",
+  "item-stonecutter-blackbronze-iron": "石切機（鉄製刃）",
+ 
+  "item-stonecutter-tinbronze-steel": "石切機（鋼鉄製刃）",
+  "item-stonecutter-bismuthbronze-steel": "石切機（鋼鉄製刃）",
+  "item-stonecutter-blackbronze-steel": "石切機（鋼鉄製刃）",
+  
+  "itemdesc-stonecutter-*": "現場で石材ブロックを素早く切断するための携帯用工具。<br><font color=\"#6bb2fc\">使用方法：</font> 工具を手に持ち、任意の岩石ブロックに近づいて<strong>左クリック</strong>を長押しすると刃が起動します。"
+}

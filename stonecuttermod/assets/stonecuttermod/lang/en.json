@@ -1,0 +1,35 @@
+{
+  "item-sawblade-iron": "Iron saw blade",
+  "item-sawblade-steel": "Steel saw blade",
+
+  "block-temporalmotor": "Stonecutter motor",
+  "blockdesc-temporalmotor": "The heart of a portable stonecutter. Powered by a temporal gear, providing high RPM for stable rotation of the saw blade.",
+  
+  "item-sawguard-tinbronze" : "Tin-bronze saw guard",
+  "item-sawguard-bismuthbronze" : "Bismuth-bronze saw guard",
+  "item-sawguard-blackbronze" : "Black-bronze saw guard",
+  "itemdesc-sawguard-*" : "A protective casing element designed for safe operation with high-speed stonecutter blades.",
+  
+  "item-sawhandle-tinbronze": "Tin-bronze handle",
+  "item-sawhandle-bismuthbronze": "Bismuth-bronze handle",
+  "item-sawhandle-blackbronze": "Black-bronze handle",
+  "itemdesc-sawhandle-*": "A sturdy handle that allows holding the stonecutter securely with two hands while sawing.",
+  
+  "item-sawrotor": "Saw rotor",
+  "itemdesc-sawrotor": "An internal mechanical component of the motor that transfers torque to the saw blade shaft.",
+  
+  "item-stonecutter_empty-tinbronze" : "Empty stonecutter (Tin bronze)",
+  "item-stonecutter_empty-bismuthbronze" : "Empty stonecutter (Bismuth bronze)",
+  "item-stonecutter_empty-blackbronze" : "Empty stonecutter (Black bronze)",
+  "itemdesc-stonecutter_empty-*": "A fully assembled tool body with a motor and a handle. <font color=\"#e5a65d\">Requires a saw blade to be installed in the crafting grid to function!</font>",
+
+  "item-stonecutter-tinbronze-iron": "Stonecutter (Iron blade)",
+  "item-stonecutter-bismuthbronze-iron": "Stonecutter (Iron blade)",
+  "item-stonecutter-blackbronze-iron": "Stonecutter (Iron blade)",
+ 
+  "item-stonecutter-tinbronze-steel": "Stonecutter (Steel blade)",
+  "item-stonecutter-bismuthbronze-steel": "Stonecutter (Steel blade)",
+  "item-stonecutter-blackbronze-steel": "Stonecutter (Steel blade)",
+  
+  "itemdesc-stonecutter-*": "A portable tool for quick sawing of stone blocks on site. <br><font color=\"#6bb2fc\">Instructions:</font> Hold the tool in your hands, approach any rock block, and hold <strong>LMB</strong> to start the blade."
+}

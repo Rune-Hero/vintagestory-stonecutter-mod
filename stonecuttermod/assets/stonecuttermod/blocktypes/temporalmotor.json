@@ -1,0 +1,53 @@
+{
+	"code": "temporalmotor",
+	"class": "Block",
+	"enabled": true,
+	"drawType": "json",
+	"blockmaterial": "Metal",
+	"lightAbsorption": 0,
+	"sidesolid": { "all": false },
+	"sideopaque": { "all": false },
+	"materialDensity": 600,
+	"maxstacksize": 1,
+
+	"shape": { "base": "stonecuttermod:block/temporalmotor" },
+
+	"creativeinventory": {
+		"general": ["*"],
+		"stonecuttermod": ["*"]
+	},
+	"maxstacksize": 1,
+	
+	"heldTpIdleAnimation": "holdbothhandslarge",
+	
+	"guiTransform": {
+		"translation": { "x": 0, "y": 0, "z": 0 },
+		"rotation": { "x": -45, "y": -45, "z": 0 },
+		"origin": { "x": 0.5, "y": 0.2, "z": 0.5 },
+		"scale": 2.5
+	},
+	"fpHandTransform": {
+		"translation": { "x": 0, "y": 0, "z": 0 },
+		"rotation": { "x": 0, "y": 0, "z": 0 },
+		"origin": { "x": 0.5, "y": 0.5, "z": 0.5 },
+		"scale": 1.5
+	},
+	"groundTransform": {
+		"translation": { "x": 0, "y": 0.35, "z": 0 },
+		"rotation": { "x": 0, "y": 0, "z": 0 },
+		"origin": { "x": 0.5, "y": 0.5, "z": 0.5 },
+		"scale": 3.5
+	},
+	"tpHandTransform": {
+		"translation": { "x": -0.6, "y": -0.3, "z": -0.3 },
+		"rotation": { "x": 0, "y": 90, "z": 0 },
+		"origin": { "x": 0.5, "y": 0.5, "z": 0.5 },
+		"scale": 1
+	},
+	"collisionBoxes": [
+		{ "x1": 0.21875, "y1": 0.0, "z1": 0.21875, "x2": 0.78125, "y2": 0.46875, "z2": 0.78125 }
+	],
+	"selectionBoxes": [
+		{ "x1": 0.21875, "y1": 0.0, "z1": 0.21875, "x2": 0.78125, "y2": 0.46875, "z2": 0.78125 }
+	]
+}

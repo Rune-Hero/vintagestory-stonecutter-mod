@@ -1,0 +1,9 @@
+{
+	"ingredientPattern": "   ,EB ,   ",
+	"ingredients": {
+		"E": { "type": "item", "code": "stonecuttermod:stonecutter_empty-{metal}", "allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze"] },
+		"B": { "type": "item", "code": "stonecuttermod:sawblade-{blade}", "allowedVariants": ["iron", "steel"] }
+	},
+	"name": "stonecutter_charge",
+	"output": { "type": "item", "code": "stonecuttermod:stonecutter-{metal}-{blade}", "quantity": 1 }
+}

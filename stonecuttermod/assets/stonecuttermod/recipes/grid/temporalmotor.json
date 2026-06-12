@@ -1,0 +1,15 @@
+{
+	"ingredientPattern": "ABC,DRD,PEP",
+	"ingredients": {
+		"A": { "type": "item", "code": "game:jonasframes-spring01" },
+		"B": { "type": "item", "code": "game:jonasparts-connector01" },
+		"C": { "type": "item", "code": "game:jonasframes-gearbox02" },
+		"D": { "type": "item", "code": "game:gear-rusty" },
+		"E": { "type": "item", "code": "game:gear-temporal" },
+		"R": { "type": "item", "code": "stonecuttermod:sawrotor" },
+		"P": { "type": "item", "code": "game:metalplate-iron" }
+	},
+	"width": 3,
+	"height": 3,
+	"output": { "type": "block", "code": "stonecuttermod:temporalmotor", "quantity": 1 }
+}

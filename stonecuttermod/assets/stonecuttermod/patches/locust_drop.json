@@ -1,0 +1,16 @@
+[
+  {
+    "op": "add",
+    "path": "/dropsByType/locust-corrupt-sawblade/-",
+    "file": "game:entities/lore/locust",
+    "value": {
+      "type": "item",
+      "code": "stonecuttermod:sawrotor",
+      "quantity": {
+        "avg": 0.3,
+        "var": 0,
+        "dist": "uniform"
+      }
+    }
+  }
+]

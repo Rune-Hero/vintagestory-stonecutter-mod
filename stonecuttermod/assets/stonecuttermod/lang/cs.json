@@ -1,0 +1,35 @@
+{
+  "item-sawblade-iron": "Železný pilový kotouč",
+  "item-sawblade-steel": "Ocelový pilový kotouč",
+
+  "block-temporalmotor": "Motor řezačky",
+  "blockdesc-temporalmotor": "Srdce přenosné řezačky kamene. Poháněno energií časového ozubeného kola, což zajišťuje vysoké otáčky pro stabilní rotaci pilového kotouče.",
+  
+  "item-sawguard-tinbronze" : "Ochranný kryt z cínového bronzu",
+  "item-sawguard-bismuthbronze" : "Ochranný kryt z bismutového bronzu",
+  "item-sawguard-blackbronze" : "Ochranný kryt z černého bronzu",
+  "itemdesc-sawguard-*" : "Ochranný prvek krytu určený pro bezpečnou práci s vysokorychlostními kotouči řezačky kamene.",
+  
+  "item-sawhandle-tinbronze": "Rukojeť z cínového bronzu",
+  "item-sawhandle-bismuthbronze": "Rukojeť z bismutového bronzu",
+  "item-sawhandle-blackbronze": "Rukojeť z černého bronzu",
+  "itemdesc-sawhandle-*": "Pevná rukojeť umožňující bezpečné držení řezačky oběma rukama během řezání.",
+  
+  "item-sawrotor": "Rotor pily",
+  "itemdesc-sawrotor": "Vnitřní mechanická součást motoru, která přenáší točivý moment na hřídel pilového kotouče.",
+  
+  "item-stonecutter_empty-tinbronze" : "Prázdná řezačka (Cínový bronz)",
+  "item-stonecutter_empty-bismuthbronze" : "Prázdná řezačka (Bismutový bronz)",
+  "item-stonecutter_empty-blackbronze" : "Prázdná řezačka (Černý bronz)",
+  "itemdesc-stonecutter_empty-*": "Plně sestavené tělo nástroje s motorem a rukojetí. <font color=\"#e5a65d\">Pro fungování vyžaduje instalaci pilového kotouče v mřížce výroby!</font>",
+
+  "item-stonecutter-tinbronze-iron": "Řezačka kamene (Železný kotouč)",
+  "item-stonecutter-bismuthbronze-iron": "Řezačka kamene (Železný kotouč)",
+  "item-stonecutter-blackbronze-iron": "Řezačka kamene (Železný kotouč)",
+ 
+  "item-stonecutter-tinbronze-steel": "Řezačka kamene (Ocelový kotouč)",
+  "item-stonecutter-bismuthbronze-steel": "Řezačka kamene (Ocelový kotouč)",
+  "item-stonecutter-blackbronze-steel": "Řezačka kamene (Ocelový kotouč)",
+  
+  "itemdesc-stonecutter-*": "Přenosný nástroj pro rychlé řezání kamenných bloků na místě. <br><font color=\"#6bb2fc\">Instrukce:</font> Vezměte nástroj do rukou, přistupte k jakémukoli kameni a podržte <strong>LTM</strong> (Levé Tlačítko Myši) pro spuštění kotouče."
+}

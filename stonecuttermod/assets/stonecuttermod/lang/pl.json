@@ -1,0 +1,35 @@
+{
+  "item-sawblade-iron": "Żelazna tarcza tnąca",
+  "item-sawblade-steel": "Stalowa tarcza tnąca",
+
+  "block-temporalmotor": "Silnik przecinarki",
+  "blockdesc-temporalmotor": "Serce przenośnej przecinarki do kamienia. Zasilany energią koła zębatego czasu, zapewnia wysokie obroty dla stabilnego obracania tarczy tnącej.",
+  
+  "item-sawguard-tinbronze" : "Osłona tarczy z brązu cynowego",
+  "item-sawguard-bismuthbronze" : "Osłona tarczy z brązu bizmutowego",
+  "item-sawguard-blackbronze" : "Osłona tarczy z czarnego brązu",
+  "itemdesc-sawguard-*" : "Element ochronny obudowy, przeznaczony do bezpiecznej pracy z szybkotnącymi tarczami przecinarki.",
+  
+  "item-sawhandle-tinbronze": "Uchwyt z brązu cynowego",
+  "item-sawhandle-bismuthbronze": "Uchwyt z brązu bizmutowego",
+  "item-sawhandle-blackbronze": "Uchwyt z czarnego brązu",
+  "itemdesc-sawhandle-*": "Solidny uchwyt pozwalający na bezpieczne trzymanie przecinarki oburącz podczas cięcia.",
+  
+  "item-sawrotor": "Wirnik piły",
+  "itemdesc-sawrotor": "Wewnętrzny element mechaniczny silnika, przenoszący moment obrotowy na wał tarczy tnącej.",
+  
+  "item-stonecutter_empty-tinbronze" : "Pusta przecinarka (Brąz cynowy)",
+  "item-stonecutter_empty-bismuthbronze" : "Pusta przecinarka (Brąz bizmutowy)",
+  "item-stonecutter_empty-blackbronze" : "Pusta przecinarka (Czarny brąz)",
+  "itemdesc-stonecutter_empty-*": "W pełni zmontowany korpus narzędzia z silnikiem i uchwytem. <font color=\"#e5a65d\">Do działania wymaga zainstalowania tarczy tnącej w oknie rzemiosła!</font>",
+
+  "item-stonecutter-tinbronze-iron": "Przecinarka do kamienia (Tarcza żelazna)",
+  "item-stonecutter-bismuthbronze-iron": "Przecinarka do kamienia (Tarcza żelazna)",
+  "item-stonecutter-blackbronze-iron": "Przecinarka do kamienia (Tarcza żelazna)",
+ 
+  "item-stonecutter-tinbronze-steel": "Przecinarka do kamienia (Tarcza stalowa)",
+  "item-stonecutter-bismuthbronze-steel": "Przecinarka do kamienia (Tarcza stalowa)",
+  "item-stonecutter-blackbronze-steel": "Przecinarka do kamienia (Tarcza stalowa)",
+  
+  "itemdesc-stonecutter-*": "Przenośne narzędzie do szybkiego cięcia bloków kamiennych na miejscu. <br><font color=\"#6bb2fc\">Instrukcja:</font> Weź narzędzie do rąk, podejdź do dowolnej skały i przytrzymaj <strong>LPM</strong> (Lewy Przycisk Myszy), aby uruchomić tarczę."
+}

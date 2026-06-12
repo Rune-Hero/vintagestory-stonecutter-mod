@@ -1,0 +1,35 @@
+{
+  "item-sawblade-iron": "철제 톱날",
+  "item-sawblade-steel": "강철제 톱날",
+
+  "block-temporalmotor": "석재 절단기 모터",
+  "blockdesc-temporalmotor": "휴대용 석재 절단기의 심장부. 시간의 톱니바퀴 에너지로 구동되며, 톱날을 안정적으로 회전시키기 위한 높은 RPM을 제공합니다.",
+  
+  "item-sawguard-tinbronze" : "주석 청동제 톱날 가드",
+  "item-sawguard-bismuthbronze" : "비스무트 청동제 톱날 가드",
+  "item-sawguard-blackbronze" : "흑청동제 톱날 가드",
+  "itemdesc-sawguard-*" : "석재 절단기의 고속 회전 칼날을 안전하게 조작하기 위한 보호 커버 부품입니다.",
+  
+  "item-sawhandle-tinbronze": "주석 청동제 손잡이",
+  "item-sawhandle-bismuthbronze": "비스무트 청동제 손잡이",
+  "item-sawhandle-blackbronze": "흑청동제 손잡이",
+  "itemdesc-sawhandle-*": "절단 작업 시 석재 절단기를 양손으로 단단히 잡을 수 있도록 해주는 견고한 손잡이입니다.",
+  
+  "item-sawrotor": "톱 로터",
+  "itemdesc-sawrotor": "토크를 톱날 샤프트로 전달하는 모터 내부의 기계 부품입니다.",
+  
+  "item-stonecutter_empty-tinbronze" : "비어 있는 석재 절단기 (주석 청동)",
+  "item-stonecutter_empty-bismuthbronze" : "비어 있는 석재 절단기 (비스무트 청동)",
+  "item-stonecutter_empty-blackbronze" : "비어 있는 석재 절단기 (흑청동)",
+  "itemdesc-stonecutter_empty-*": "모터와 손잡이가 완전히 조립된 도구 본체입니다. <font color=\"#e5a65d\">사용하려면 제작 창에서 톱날을 장착해야 합니다!</font>",
+
+  "item-stonecutter-tinbronze-iron": "석재 절단기 (철제 톱날)",
+  "item-stonecutter-bismuthbronze-iron": "석재 절단기 (철제 톱날)",
+  "item-stonecutter-blackbronze-iron": "석재 절단기 (철제 톱날)",
+ 
+  "item-stonecutter-tinbronze-steel": "석재 절단기 (강철제 톱날)",
+  "item-stonecutter-bismuthbronze-steel": "석재 절단기 (강철제 톱날)",
+  "item-stonecutter-blackbronze-steel": "석재 절단기 (강철제 톱날)",
+  
+  "itemdesc-stonecutter-*": "현장에서 석재 블록을 빠르게 절단하기 위한 휴대용 도구입니다. <br><font color=\"#6bb2fc\">사용 방법:</font> 도구를 손에 들고 암석 블록에 다가간 뒤 <strong>마우스 왼쪽 버튼</strong>을 길게 누르면 톱날이 작동합니다."
+}

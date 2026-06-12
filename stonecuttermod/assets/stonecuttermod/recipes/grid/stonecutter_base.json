@@ -1,0 +1,15 @@
+{
+	"ingredientPattern": "C H,ROM,  P",
+	"ingredients": {
+		"C": { "type": "item", "code": "stonecuttermod:sawguard-{metal}", "allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze"] },
+		"H": { "type": "item", "code": "stonecuttermod:sawhandle-{metal}", "allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze"], "quantity": 2 },
+		"R": { "type": "item", "code": "game:gear-rusty" },
+		"O": { "type": "item", "code": "game:rod-iron" },
+		"M": { "type": "block", "code": "stonecuttermod:temporalmotor" },
+		"P": { "type": "item", "code": "game:metalplate-iron" }
+	},
+	"width": 3,
+	"height": 3,
+	"name": "stonecutter_base",
+	"output": { "type": "item", "code": "stonecuttermod:stonecutter_empty-{metal}", "quantity": 1 }
+}

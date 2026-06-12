@@ -1,0 +1,35 @@
+{
+  "item-sawblade-iron": "Eisernes Sägeblatt",
+  "item-sawblade-steel": "Stählernes Sägeblatt",
+
+  "block-temporalmotor": "Steinschneider-Motor",
+  "blockdesc-temporalmotor": "Das Herzstück eines tragbaren Steinschneiders. Angetrieben durch die Energie eines Temporalzahnrads, was eine hohe Drehzahl für eine stabile Rotation des Sägeblatts gewährleistet.",
+  
+  "item-sawguard-tinbronze" : "Sägeblattschutz aus Zinnbronze",
+  "item-sawguard-bismuthbronze" : "Sägeblattschutz aus Bismutbronze",
+  "item-sawguard-blackbronze" : "Sägeblattschutz aus Schwarzbronze",
+  "itemdesc-sawguard-*" : "Ein Schutzhaubenelement des Gehäuses, entwickelt für den sicheren Betrieb mit Hochgeschwindigkeits-Sägeblättern des Steinschneiders.",
+  
+  "item-sawhandle-tinbronze": "Griff aus Zinnbronze",
+  "item-sawhandle-bismuthbronze": "Griff aus Bismutbronze",
+  "item-sawhandle-blackbronze": "Griff aus Schwarzbronze",
+  "itemdesc-sawhandle-*": "Ein robuster Griff, der es ermöglicht, den Steinschneider während des Sägevorgangs sicher mit beiden Händen zu halten.",
+  
+  "item-sawrotor": "Sägerotor",
+  "itemdesc-sawrotor": "Ein internes mechanisches Bauteil des Motors, das das Drehmoment auf die Sägeblattwelle überträgt.",
+  
+  "item-stonecutter_empty-tinbronze" : "Leerer Steinschneider (Zinnbronze)",
+  "item-stonecutter_empty-bismuthbronze" : "Leerer Steinschneider (Bismutbronze)",
+  "item-stonecutter_empty-blackbronze" : "Leerer Steinschneider (Schwarzbronze)",
+  "itemdesc-stonecutter_empty-*": "Ein vollständig montiertes Werkzeuggehäuse mit Motor und Griff. <font color=\"#e5a65d\">Erfordert das Einsetzen eines Sägeblatts im Handwerksfenster, um zu funktionieren!</font>",
+
+  "item-stonecutter-tinbronze-iron": "Steinschneider (Eisensäge)",
+  "item-stonecutter-bismuthbronze-iron": "Steinschneider (Eisensäge)",
+  "item-stonecutter-blackbronze-iron": "Steinschneider (Eisensäge)",
+ 
+  "item-stonecutter-tinbronze-steel": "Steinschneider (Stahlsäge)",
+  "item-stonecutter-bismuthbronze-steel": "Steinschneider (Stahlsäge)",
+  "item-stonecutter-blackbronze-steel": "Steinschneider (Stahlsäge)",
+  
+  "itemdesc-stonecutter-*": "Ein tragbares Werkzeug zum schnellen Sägen von Gesteinsblöcken vor Ort. <br><font color=\"#6bb2fc\">Anleitung:</font> Nehmen Sie das Werkzeug in die Hände, gehen Sie zu einem beliebigen Gesteinsblock und halten Sie die <strong>LMT</strong> gedrückt, um das Sägeblatt zu starten."
+}
